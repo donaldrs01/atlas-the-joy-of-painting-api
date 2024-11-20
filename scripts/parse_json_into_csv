@@ -1,0 +1,12 @@
+import csv
+import json
+
+with open('../parsed_data/parsed_episodes.json', 'r') as json_file:
+    data = json.load(json_file)
+
+with open('../parsed_data/parsed_episodes.csv', 'w', newline='', encoding='utf-8') as csv_file:
+    fieldnames = ['title', 'air_date', 'month', 'year']
+    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+
+    writer.writeheader()
+    writer.writerows(data)
