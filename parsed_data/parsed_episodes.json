@@ -1,0 +1,2420 @@
+[
+    {
+        "title": "A Walk in the Woods",
+        "air_date": "January 11, 1983",
+        "month": 1,
+        "year": 1983
+    },
+    {
+        "title": "Mount McKinley",
+        "air_date": "January 11, 1983",
+        "month": 1,
+        "year": 1983
+    },
+    {
+        "title": "Ebony Sunset",
+        "air_date": "January 18, 1983",
+        "month": 1,
+        "year": 1983
+    },
+    {
+        "title": "Winter Mist",
+        "air_date": "January 25, 1983",
+        "month": 1,
+        "year": 1983
+    },
+    {
+        "title": "Quiet Stream",
+        "air_date": "February 1, 1983",
+        "month": 2,
+        "year": 1983
+    },
+    {
+        "title": "Winter Moon",
+        "air_date": "February 8, 1983",
+        "month": 2,
+        "year": 1983
+    },
+    {
+        "title": "Autumn Mountains",
+        "air_date": "February 15, 1983",
+        "month": 2,
+        "year": 1983
+    },
+    {
+        "title": "Peaceful Valley",
+        "air_date": "February 22, 1983",
+        "month": 2,
+        "year": 1983
+    },
+    {
+        "title": "Seascape",
+        "air_date": "March 1, 1983",
+        "month": 3,
+        "year": 1983
+    },
+    {
+        "title": "Mountain Lake",
+        "air_date": "March 8, 1983",
+        "month": 3,
+        "year": 1983
+    },
+    {
+        "title": "Winter Glow",
+        "air_date": "March 15, 1983",
+        "month": 3,
+        "year": 1983
+    },
+    {
+        "title": "Snowfall",
+        "air_date": "March 22, 1983",
+        "month": 3,
+        "year": 1983
+    },
+    {
+        "title": "Final Reflections",
+        "air_date": "March 29, 1983",
+        "month": 3,
+        "year": 1983
+    },
+    {
+        "title": "Meadow Lake",
+        "air_date": "August 31, 1983",
+        "month": 8,
+        "year": 1983
+    },
+    {
+        "title": "Winter Sun",
+        "air_date": "September 7, 1983",
+        "month": 9,
+        "year": 1983
+    },
+    {
+        "title": "Ebony Sea",
+        "air_date": "September 14, 1983",
+        "month": 9,
+        "year": 1983
+    },
+    {
+        "title": "Shades of Gray",
+        "air_date": "September 21, 1983",
+        "month": 9,
+        "year": 1983
+    },
+    {
+        "title": "Autumn Splendor",
+        "air_date": "September 28, 1983",
+        "month": 9,
+        "year": 1983
+    },
+    {
+        "title": "Black River",
+        "air_date": "October 5, 1983",
+        "month": 10,
+        "year": 1983
+    },
+    {
+        "title": "Brown Mountain",
+        "air_date": "October 12, 1983",
+        "month": 10,
+        "year": 1983
+    },
+    {
+        "title": "Reflections",
+        "air_date": "October 19, 1983",
+        "month": 10,
+        "year": 1983
+    },
+    {
+        "title": "Black & White Seascape",
+        "air_date": "October 26, 1983",
+        "month": 10,
+        "year": 1983
+    },
+    {
+        "title": "Lazy River",
+        "air_date": "November 2, 1983",
+        "month": 11,
+        "year": 1983
+    },
+    {
+        "title": "Black Waterfall",
+        "air_date": "November 9, 1983",
+        "month": 11,
+        "year": 1983
+    },
+    {
+        "title": "Mountain Waterfall",
+        "air_date": "November 16, 1983",
+        "month": 11,
+        "year": 1983
+    },
+    {
+        "title": "Final Grace",
+        "air_date": "November 23, 1983",
+        "month": 11,
+        "year": 1983
+    },
+    {
+        "title": "Mountain Retreat",
+        "air_date": "January 4, 1984",
+        "month": 1,
+        "year": 1984
+    },
+    {
+        "title": "Blue Moon",
+        "air_date": "January 11, 1984",
+        "month": 1,
+        "year": 1984
+    },
+    {
+        "title": "Bubbling Stream",
+        "air_date": "January 18, 1984",
+        "month": 1,
+        "year": 1984
+    },
+    {
+        "title": "Winter Night",
+        "air_date": "January 25, 1984",
+        "month": 1,
+        "year": 1984
+    },
+    {
+        "title": "Distant Hills",
+        "air_date": "February 1, 1984",
+        "month": 2,
+        "year": 1984
+    },
+    {
+        "title": "Covered Bridge",
+        "air_date": "February 8, 1984",
+        "month": 2,
+        "year": 1984
+    },
+    {
+        "title": "Quiet Inlet",
+        "air_date": "February 15, 1984",
+        "month": 2,
+        "year": 1984
+    },
+    {
+        "title": "Night Light",
+        "air_date": "February 22, 1984",
+        "month": 2,
+        "year": 1984
+    },
+    {
+        "title": "The Old Mill",
+        "air_date": "March 1, 1984",
+        "month": 3,
+        "year": 1984
+    },
+    {
+        "title": "Campfire",
+        "air_date": "March 8, 1984",
+        "month": 3,
+        "year": 1984
+    },
+    {
+        "title": "Rustic Barn",
+        "air_date": "March 15, 1984",
+        "month": 3,
+        "year": 1984
+    },
+    {
+        "title": "Hidden Lake",
+        "air_date": "March 22, 1984",
+        "month": 3,
+        "year": 1984
+    },
+    {
+        "title": "Peaceful Waters",
+        "air_date": "March 29, 1984",
+        "month": 3,
+        "year": 1984
+    },
+    {
+        "title": "Purple Splendor",
+        "air_date": "September 5, 1984",
+        "month": 9,
+        "year": 1984
+    },
+    {
+        "title": "Tranquil Valley",
+        "air_date": "September 12, 1984",
+        "month": 9,
+        "year": 1984
+    },
+    {
+        "title": "Majestic Mountains",
+        "air_date": "September 19, 1984",
+        "month": 9,
+        "year": 1984
+    },
+    {
+        "title": "Winter Sawscape",
+        "air_date": "September 26, 1984",
+        "month": 9,
+        "year": 1984
+    },
+    {
+        "title": "Evening Seascape",
+        "air_date": "October 3, 1984",
+        "month": 10,
+        "year": 1984
+    },
+    {
+        "title": "Warm Summer Day",
+        "air_date": "October 10, 1984",
+        "month": 10,
+        "year": 1984
+    },
+    {
+        "title": "Cabin in the Woods",
+        "air_date": "October 17, 1984",
+        "month": 10,
+        "year": 1984
+    },
+    {
+        "title": "Wetlands",
+        "air_date": "October 24, 1984",
+        "month": 10,
+        "year": 1984
+    },
+    {
+        "title": "Cool Waters",
+        "air_date": "October 31, 1984",
+        "month": 10,
+        "year": 1984
+    },
+    {
+        "title": "Quiet Woods",
+        "air_date": "November 7, 1984",
+        "month": 11,
+        "year": 1984
+    },
+    {
+        "title": "Northwest Majesty",
+        "air_date": "November 14, 1984",
+        "month": 11,
+        "year": 1984
+    },
+    {
+        "title": "Autumn Days",
+        "air_date": "November 21, 1984",
+        "month": 11,
+        "year": 1984
+    },
+    {
+        "title": "Mountain Challenge",
+        "air_date": "November 28, 1984",
+        "month": 11,
+        "year": 1984
+    },
+    {
+        "title": "Mountain Waterfall",
+        "air_date": "January 2, 1985",
+        "month": 1,
+        "year": 1985
+    },
+    {
+        "title": "Twilight Meadow",
+        "air_date": "January 9, 1985",
+        "month": 1,
+        "year": 1985
+    },
+    {
+        "title": "Mountain Blossoms",
+        "air_date": "January 16, 1985",
+        "month": 1,
+        "year": 1985
+    },
+    {
+        "title": "Winter Stillness",
+        "air_date": "January 23, 1985",
+        "month": 1,
+        "year": 1985
+    },
+    {
+        "title": "Quiet Pond",
+        "air_date": "January 30, 1985",
+        "month": 1,
+        "year": 1985
+    },
+    {
+        "title": "Ocean Sunrise",
+        "air_date": "February 6, 1985",
+        "month": 2,
+        "year": 1985
+    },
+    {
+        "title": "Bubbling Brook",
+        "air_date": "February 13, 1985",
+        "month": 2,
+        "year": 1985
+    },
+    {
+        "title": "Arizona Splendor",
+        "air_date": "February 20, 1985",
+        "month": 2,
+        "year": 1985
+    },
+    {
+        "title": "Anatomy of a Wave",
+        "air_date": "February 27, 1985",
+        "month": 2,
+        "year": 1985
+    },
+    {
+        "title": "The Windmill",
+        "air_date": "March 6, 1985",
+        "month": 3,
+        "year": 1985
+    },
+    {
+        "title": "Autumn Glory",
+        "air_date": "March 13, 1985",
+        "month": 3,
+        "year": 1985
+    },
+    {
+        "title": "Indian Girl",
+        "air_date": "March 20, 1985",
+        "month": 3,
+        "year": 1985
+    },
+    {
+        "title": "Meadow Stream",
+        "air_date": "March 27, 1985",
+        "month": 3,
+        "year": 1985
+    },
+    {
+        "title": "Blue River",
+        "air_date": "May 1, 1985",
+        "month": 5,
+        "year": 1985
+    },
+    {
+        "title": "Nature's Edge",
+        "air_date": "May 8, 1985",
+        "month": 5,
+        "year": 1985
+    },
+    {
+        "title": "Morning Mist",
+        "air_date": "May 15, 1985",
+        "month": 5,
+        "year": 1985
+    },
+    {
+        "title": "Whispering Stream",
+        "air_date": "May 22, 1985",
+        "month": 5,
+        "year": 1985
+    },
+    {
+        "title": "Secluded Forest",
+        "air_date": "May 29, 1985",
+        "month": 5,
+        "year": 1985
+    },
+    {
+        "title": "Snow Trail",
+        "air_date": "June 5, 1985",
+        "month": 6,
+        "year": 1985
+    },
+    {
+        "title": "Arctic Beauty",
+        "air_date": "June 12, 1985",
+        "month": 6,
+        "year": 1985
+    },
+    {
+        "title": "Horizons West",
+        "air_date": "June 19, 1985",
+        "month": 6,
+        "year": 1985
+    },
+    {
+        "title": "High Chateau",
+        "air_date": "June 26, 1985",
+        "month": 6,
+        "year": 1985
+    },
+    {
+        "title": "Country Life",
+        "air_date": "July 2, 1985",
+        "month": 7,
+        "year": 1985
+    },
+    {
+        "title": "Western Expanse",
+        "air_date": "July 9, 1985",
+        "month": 7,
+        "year": 1985
+    },
+    {
+        "title": "Marshlands",
+        "air_date": "July 16, 1985",
+        "month": 7,
+        "year": 1985
+    },
+    {
+        "title": "Blaze of Color",
+        "air_date": "July 23, 1985",
+        "month": 7,
+        "year": 1985
+    },
+    {
+        "title": "Winter Cabin",
+        "air_date": "October 2, 1985",
+        "month": 10,
+        "year": 1985
+    },
+    {
+        "title": "Secluded Lake",
+        "air_date": "October 9, 1985",
+        "month": 10,
+        "year": 1985
+    },
+    {
+        "title": "Evergreen at Sunset",
+        "air_date": "October 16, 1985",
+        "month": 10,
+        "year": 1985
+    },
+    {
+        "title": "Mountain Cabin",
+        "air_date": "October 23, 1985",
+        "month": 10,
+        "year": 1985
+    },
+    {
+        "title": "Portrait of Sally",
+        "air_date": "October 30, 1985",
+        "month": 10,
+        "year": 1985
+    },
+    {
+        "title": "Misty Waterfall",
+        "air_date": "November 6, 1985",
+        "month": 11,
+        "year": 1985
+    },
+    {
+        "title": "Barn at Sunset",
+        "air_date": "November 13, 1985",
+        "month": 11,
+        "year": 1985
+    },
+    {
+        "title": "Mountain Splendor",
+        "air_date": "November 20, 1985",
+        "month": 11,
+        "year": 1985
+    },
+    {
+        "title": "Lake by Mountain",
+        "air_date": "November 27, 1985",
+        "month": 11,
+        "year": 1985
+    },
+    {
+        "title": "Mountain Glory",
+        "air_date": "December 6, 1985",
+        "month": 12,
+        "year": 1985
+    },
+    {
+        "title": "Grey Winter",
+        "air_date": "December 13, 1985",
+        "month": 12,
+        "year": 1985
+    },
+    {
+        "title": "Dock Scene",
+        "air_date": "December 20, 1985",
+        "month": 12,
+        "year": 1985
+    },
+    {
+        "title": "Dark Waterfall",
+        "air_date": "December 27, 1985",
+        "month": 12,
+        "year": 1985
+    },
+    {
+        "title": "Misty Rolling Hills",
+        "air_date": "January 2, 1986",
+        "month": 1,
+        "year": 1986
+    },
+    {
+        "title": "Lakeside Cabin",
+        "air_date": "January 9, 1986",
+        "month": 1,
+        "year": 1986
+    },
+    {
+        "title": "Warm Winter Day",
+        "air_date": "January 16, 1986",
+        "month": 1,
+        "year": 1986
+    },
+    {
+        "title": "Waterside Way",
+        "air_date": "January 23, 1986",
+        "month": 1,
+        "year": 1986
+    },
+    {
+        "title": "Hunter's Haven",
+        "air_date": "January 30, 1986",
+        "month": 1,
+        "year": 1986
+    },
+    {
+        "title": "Bubbling Mountain Brook",
+        "air_date": "February 6, 1986",
+        "month": 2,
+        "year": 1986
+    },
+    {
+        "title": "Winter Hideaway",
+        "air_date": "February 13, 1986",
+        "month": 2,
+        "year": 1986
+    },
+    {
+        "title": "Foot of the Mountain",
+        "air_date": "February 20, 1986",
+        "month": 2,
+        "year": 1986
+    },
+    {
+        "title": "Majestic Pine",
+        "air_date": "February 27, 1986",
+        "month": 2,
+        "year": 1986
+    },
+    {
+        "title": "Cactus at Sunset",
+        "air_date": "March 6, 1986",
+        "month": 3,
+        "year": 1986
+    },
+    {
+        "title": "Mountain Range",
+        "air_date": "March 13, 1986",
+        "month": 3,
+        "year": 1986
+    },
+    {
+        "title": "Lonely Retreat",
+        "air_date": "March 20, 1986",
+        "month": 3,
+        "year": 1986
+    },
+    {
+        "title": "Northern Lights",
+        "air_date": "March 27, 1986",
+        "month": 3,
+        "year": 1986
+    },
+    {
+        "title": "Winter Evergreens",
+        "air_date": "April 30, 1986",
+        "month": 4,
+        "year": 1986
+    },
+    {
+        "title": "Surf's Up",
+        "air_date": "May 7, 1986",
+        "month": 5,
+        "year": 1986
+    },
+    {
+        "title": "Red Sunset",
+        "air_date": "May 14, 1986",
+        "month": 5,
+        "year": 1986
+    },
+    {
+        "title": "Meadow Road",
+        "air_date": "May 21, 1986",
+        "month": 5,
+        "year": 1986
+    },
+    {
+        "title": "Winter Oval",
+        "air_date": "May 28, 1986",
+        "month": 5,
+        "year": 1986
+    },
+    {
+        "title": "Secluded Beach",
+        "air_date": "June 4, 1986",
+        "month": 6,
+        "year": 1986
+    },
+    {
+        "title": "Forest Hills",
+        "air_date": "June 11, 1986",
+        "month": 6,
+        "year": 1986
+    },
+    {
+        "title": "Little House by the Road",
+        "air_date": "June 18, 1986",
+        "month": 6,
+        "year": 1986
+    },
+    {
+        "title": "Mountain Pass",
+        "air_date": "June 25, 1986",
+        "month": 6,
+        "year": 1986
+    },
+    {
+        "title": "Country Charm",
+        "air_date": "July 2, 1986",
+        "month": 7,
+        "year": 1986
+    },
+    {
+        "title": "Nature's Paradise",
+        "air_date": "July 9, 1986",
+        "month": 7,
+        "year": 1986
+    },
+    {
+        "title": "Mountain by the Sea",
+        "air_date": "July 16, 1986",
+        "month": 7,
+        "year": 1986
+    },
+    {
+        "title": "Mountain Hideaway",
+        "air_date": "July 23, 1986",
+        "month": 7,
+        "year": 1986
+    },
+    {
+        "title": "Towering Peaks",
+        "air_date": "September 3, 1986",
+        "month": 9,
+        "year": 1986
+    },
+    {
+        "title": "Cabin at Sunset",
+        "air_date": "September 10, 1986",
+        "month": 9,
+        "year": 1986
+    },
+    {
+        "title": "Twin Falls",
+        "air_date": "September 17, 1986",
+        "month": 9,
+        "year": 1986
+    },
+    {
+        "title": "Secluded Bridge",
+        "air_date": "September 24, 1986",
+        "month": 9,
+        "year": 1986
+    },
+    {
+        "title": "Ocean Breeze",
+        "air_date": "October 1, 1986",
+        "month": 10,
+        "year": 1986
+    },
+    {
+        "title": "Autumn Woods",
+        "air_date": "October 8, 1986",
+        "month": 10,
+        "year": 1986
+    },
+    {
+        "title": "Winter Solitude",
+        "air_date": "October 15, 1986",
+        "month": 10,
+        "year": 1986
+    },
+    {
+        "title": "Golden Sunset",
+        "air_date": "October 22, 1986",
+        "month": 10,
+        "year": 1986
+    },
+    {
+        "title": "Mountain Oval",
+        "air_date": "October 29, 1986",
+        "month": 10,
+        "year": 1986
+    },
+    {
+        "title": "Ocean Sunset",
+        "air_date": "November 5, 1986",
+        "month": 11,
+        "year": 1986
+    },
+    {
+        "title": "Triple View",
+        "air_date": "November 12, 1986",
+        "month": 11,
+        "year": 1986
+    },
+    {
+        "title": "Winter Frost",
+        "air_date": "November 19, 1986",
+        "month": 11,
+        "year": 1986
+    },
+    {
+        "title": "Lakeside Cabin",
+        "air_date": "November 26, 1986",
+        "month": 11,
+        "year": 1986
+    },
+    {
+        "title": "Mountain Stream",
+        "air_date": "December 31, 1986",
+        "month": 12,
+        "year": 1986
+    },
+    {
+        "title": "Country Cabin",
+        "air_date": "January 7, 1987",
+        "month": 1,
+        "year": 1987
+    },
+    {
+        "title": "Daisy Delight",
+        "air_date": "January 14, 1987",
+        "month": 1,
+        "year": 1987
+    },
+    {
+        "title": "Hidden Stream",
+        "air_date": "January 21, 1987",
+        "month": 1,
+        "year": 1987
+    },
+    {
+        "title": "Towering Glacier",
+        "air_date": "January 28, 1987",
+        "month": 1,
+        "year": 1987
+    },
+    {
+        "title": "Oval Barn",
+        "air_date": "February 4, 1987",
+        "month": 2,
+        "year": 1987
+    },
+    {
+        "title": "Lakeside Path",
+        "air_date": "February 11, 1987",
+        "month": 2,
+        "year": 1987
+    },
+    {
+        "title": "Sunset Oval",
+        "air_date": "February 18, 1987",
+        "month": 2,
+        "year": 1987
+    },
+    {
+        "title": "Winter Barn",
+        "air_date": "February 25, 1987",
+        "month": 2,
+        "year": 1987
+    },
+    {
+        "title": "Sunset Over the Waves",
+        "air_date": "March 4, 1987",
+        "month": 3,
+        "year": 1987
+    },
+    {
+        "title": "Golden Glow",
+        "air_date": "March 11, 1987",
+        "month": 3,
+        "year": 1987
+    },
+    {
+        "title": "Roadside Barn",
+        "air_date": "March 18, 1987",
+        "month": 3,
+        "year": 1987
+    },
+    {
+        "title": "Happy Accident",
+        "air_date": "March 25, 1987",
+        "month": 3,
+        "year": 1987
+    },
+    {
+        "title": "Golden Knoll",
+        "air_date": "April 29, 1987",
+        "month": 4,
+        "year": 1987
+    },
+    {
+        "title": "Mountain Reflections",
+        "air_date": "May 6, 1987",
+        "month": 5,
+        "year": 1987
+    },
+    {
+        "title": "Secluded Mountain",
+        "air_date": "May 13, 1987",
+        "month": 5,
+        "year": 1987
+    },
+    {
+        "title": "Bright Autumn Trees",
+        "air_date": "May 20, 1987",
+        "month": 5,
+        "year": 1987
+    },
+    {
+        "title": "Black Seascape",
+        "air_date": "May 27, 1987",
+        "month": 5,
+        "year": 1987
+    },
+    {
+        "title": "Steep Mountains",
+        "air_date": "June 3, 1987",
+        "month": 6,
+        "year": 1987
+    },
+    {
+        "title": "Quiet Mountain River",
+        "air_date": "June 10, 1987",
+        "month": 6,
+        "year": 1987
+    },
+    {
+        "title": "Evening Waterfall",
+        "air_date": "June 17, 1987",
+        "month": 6,
+        "year": 1987
+    },
+    {
+        "title": "Tropical Seascape",
+        "air_date": "June 24, 1987",
+        "month": 6,
+        "year": 1987
+    },
+    {
+        "title": "Mountain at Sunset",
+        "air_date": "July 1, 1987",
+        "month": 7,
+        "year": 1987
+    },
+    {
+        "title": "Soft Mountain Glow",
+        "air_date": "July 8, 1987",
+        "month": 7,
+        "year": 1987
+    },
+    {
+        "title": "Mountain in an Oval",
+        "air_date": "July 15, 1987",
+        "month": 7,
+        "year": 1987
+    },
+    {
+        "title": "Winter Mountain",
+        "air_date": "July 22, 1987",
+        "month": 7,
+        "year": 1987
+    },
+    {
+        "title": "Rolling Hills",
+        "air_date": "September 2, 1987",
+        "month": 9,
+        "year": 1987
+    },
+    {
+        "title": "Frozen Solitude",
+        "air_date": "September 9, 1987",
+        "month": 9,
+        "year": 1987
+    },
+    {
+        "title": "Meadow Brook",
+        "air_date": "September 16, 1987",
+        "month": 9,
+        "year": 1987
+    },
+    {
+        "title": "Evening Sunset",
+        "air_date": "September 23, 1987",
+        "month": 9,
+        "year": 1987
+    },
+    {
+        "title": "Mountain View",
+        "air_date": "September 30, 1987",
+        "month": 9,
+        "year": 1987
+    },
+    {
+        "title": "Hidden Creek",
+        "air_date": "October 7, 1987",
+        "month": 10,
+        "year": 1987
+    },
+    {
+        "title": "Peaceful Haven",
+        "air_date": "October 14, 1987",
+        "month": 10,
+        "year": 1987
+    },
+    {
+        "title": "Mountain Exhibition",
+        "air_date": "October 21, 1987",
+        "month": 10,
+        "year": 1987
+    },
+    {
+        "title": "Emerald Waters",
+        "air_date": "October 28, 1987",
+        "month": 10,
+        "year": 1987
+    },
+    {
+        "title": "Mountain Summit",
+        "air_date": "November 4, 1987",
+        "month": 11,
+        "year": 1987
+    },
+    {
+        "title": "Cabin Hideaway",
+        "air_date": "November 11, 1987",
+        "month": 11,
+        "year": 1987
+    },
+    {
+        "title": "Oval Essence",
+        "air_date": "November 18, 1987",
+        "month": 11,
+        "year": 1987
+    },
+    {
+        "title": "Lost Lake",
+        "air_date": "November 25, 1987",
+        "month": 11,
+        "year": 1987
+    },
+    {
+        "title": "Distant Mountains",
+        "air_date": "December 30, 1987",
+        "month": 12,
+        "year": 1987
+    },
+    {
+        "title": "Meadow Brook Surprise",
+        "air_date": "January 6, 1988",
+        "month": 1,
+        "year": 1988
+    },
+    {
+        "title": "Mountain Moonlight Oval",
+        "air_date": "January 13, 1988",
+        "month": 1,
+        "year": 1988
+    },
+    {
+        "title": "Snowy Solitude",
+        "air_date": "January 20, 1988",
+        "month": 1,
+        "year": 1988
+    },
+    {
+        "title": "Mountain River",
+        "air_date": "January 27, 1988",
+        "month": 1,
+        "year": 1988
+    },
+    {
+        "title": "Graceful Mountains",
+        "air_date": "February 3, 1988",
+        "month": 2,
+        "year": 1988
+    },
+    {
+        "title": "Windy Waves",
+        "air_date": "February 10, 1988",
+        "month": 2,
+        "year": 1988
+    },
+    {
+        "title": "On a Clear Day",
+        "air_date": "February 17, 1988",
+        "month": 2,
+        "year": 1988
+    },
+    {
+        "title": "Riverside Escape Oval",
+        "air_date": "February 24, 1988",
+        "month": 2,
+        "year": 1988
+    },
+    {
+        "title": "Surprising Falls",
+        "air_date": "March 2, 1988",
+        "month": 3,
+        "year": 1988
+    },
+    {
+        "title": "Shadow Pond",
+        "air_date": "March 9, 1988",
+        "month": 3,
+        "year": 1988
+    },
+    {
+        "title": "Misty Forest",
+        "air_date": "March 16, 1988",
+        "month": 3,
+        "year": 1988
+    },
+    {
+        "title": "Natural Wonder",
+        "air_date": "March 23, 1988",
+        "month": 3,
+        "year": 1988
+    },
+    {
+        "title": "Splendor of Winter",
+        "air_date": "April 27, 1988",
+        "month": 4,
+        "year": 1988
+    },
+    {
+        "title": "Colors of Nature",
+        "air_date": "May 4, 1988",
+        "month": 5,
+        "year": 1988
+    },
+    {
+        "title": "Grandpa's Barn",
+        "air_date": "May 11, 1988",
+        "month": 5,
+        "year": 1988
+    },
+    {
+        "title": "Peaceful Reflections",
+        "air_date": "May 18, 1988",
+        "month": 5,
+        "year": 1988
+    },
+    {
+        "title": "Hidden Winter Moon Oval",
+        "air_date": "May 25, 1988",
+        "month": 5,
+        "year": 1988
+    },
+    {
+        "title": "Waves of Wonder",
+        "air_date": "June 1, 1988",
+        "month": 6,
+        "year": 1988
+    },
+    {
+        "title": "Cabin by the Pond",
+        "air_date": "June 8, 1988",
+        "month": 6,
+        "year": 1988
+    },
+    {
+        "title": "Fall Stream",
+        "air_date": "June 15, 1988",
+        "month": 6,
+        "year": 1988
+    },
+    {
+        "title": "Christmas Eve Snow",
+        "air_date": "June 22, 1988",
+        "month": 6,
+        "year": 1988
+    },
+    {
+        "title": "Forest Dawn Oval",
+        "air_date": "June 29, 1988",
+        "month": 6,
+        "year": 1988
+    },
+    {
+        "title": "Pathway to Autumn",
+        "air_date": "July 6, 1988",
+        "month": 7,
+        "year": 1988
+    },
+    {
+        "title": "Deep Forest Lake",
+        "air_date": "July 13, 1988",
+        "month": 7,
+        "year": 1988
+    },
+    {
+        "title": "Peaks of Majesty",
+        "air_date": "July 20, 1988",
+        "month": 7,
+        "year": 1988
+    },
+    {
+        "title": "Two Seasons",
+        "air_date": "August 17, 1988",
+        "month": 8,
+        "year": 1988
+    },
+    {
+        "title": "Nestled Cabin",
+        "air_date": "August 24, 1988",
+        "month": 8,
+        "year": 1988
+    },
+    {
+        "title": "Wintertime Discovery",
+        "air_date": "August 31, 1988",
+        "month": 8,
+        "year": 1988
+    },
+    {
+        "title": "Mountain Mirage",
+        "air_date": "September 7, 1988",
+        "month": 9,
+        "year": 1988
+    },
+    {
+        "title": "Double Oval Fantasy",
+        "air_date": "September 14, 1988",
+        "month": 9,
+        "year": 1988
+    },
+    {
+        "title": "Contemplative Lady",
+        "air_date": "September 21, 1988",
+        "month": 9,
+        "year": 1988
+    },
+    {
+        "title": "Deep Woods",
+        "air_date": "September 28, 1988",
+        "month": 9,
+        "year": 1988
+    },
+    {
+        "title": "High Tide",
+        "air_date": "October 5, 1988",
+        "month": 10,
+        "year": 1988
+    },
+    {
+        "title": "Barn in Snow Oval",
+        "air_date": "October 12, 1988",
+        "month": 10,
+        "year": 1988
+    },
+    {
+        "title": "That Time of Year",
+        "air_date": "October 19, 1988",
+        "month": 10,
+        "year": 1988
+    },
+    {
+        "title": "Waterfall Wonder",
+        "air_date": "October 26, 1988",
+        "month": 10,
+        "year": 1988
+    },
+    {
+        "title": "Mighty Mountain Lake",
+        "air_date": "November 2, 1988",
+        "month": 11,
+        "year": 1988
+    },
+    {
+        "title": "Wooded Stream Oval",
+        "air_date": "November 9, 1988",
+        "month": 11,
+        "year": 1988
+    },
+    {
+        "title": "Golden Mist Oval",
+        "air_date": "January 4, 1989",
+        "month": 1,
+        "year": 1989
+    },
+    {
+        "title": "Old Place Home",
+        "air_date": "January 11, 1989",
+        "month": 1,
+        "year": 1989
+    },
+    {
+        "title": "Soothing Vista",
+        "air_date": "January 18, 1989",
+        "month": 1,
+        "year": 1989
+    },
+    {
+        "title": "Stormy Seas",
+        "air_date": "January 25, 1989",
+        "month": 1,
+        "year": 1989
+    },
+    {
+        "title": "Country Time",
+        "air_date": "February 1, 1989",
+        "month": 2,
+        "year": 1989
+    },
+    {
+        "title": "A Mild Winter's Day",
+        "air_date": "February 8, 1989",
+        "month": 2,
+        "year": 1989
+    },
+    {
+        "title": "Spectacular Waterfall",
+        "air_date": "February 15, 1989",
+        "month": 2,
+        "year": 1989
+    },
+    {
+        "title": "View From the Park",
+        "air_date": "February 22, 1989",
+        "month": 2,
+        "year": 1989
+    },
+    {
+        "title": "Lake View",
+        "air_date": "March 1, 1989",
+        "month": 3,
+        "year": 1989
+    },
+    {
+        "title": "Old Country Mill",
+        "air_date": "March 8, 1989",
+        "month": 3,
+        "year": 1989
+    },
+    {
+        "title": "Morning Walk",
+        "air_date": "March 15, 1989",
+        "month": 3,
+        "year": 1989
+    },
+    {
+        "title": "Nature's Splendor",
+        "air_date": "March 22, 1989",
+        "month": 3,
+        "year": 1989
+    },
+    {
+        "title": "Mountain Beauty",
+        "air_date": "March 29, 1989",
+        "month": 3,
+        "year": 1989
+    },
+    {
+        "title": "Half Oval Vignette",
+        "air_date": "July 5, 1989",
+        "month": 7,
+        "year": 1989
+    },
+    {
+        "title": "Absolutely Autumn",
+        "air_date": "July 12, 1989",
+        "month": 7,
+        "year": 1989
+    },
+    {
+        "title": "Mountain Seclusion",
+        "air_date": "July 19, 1989",
+        "month": 7,
+        "year": 1989
+    },
+    {
+        "title": "Crimson Oval",
+        "air_date": "July 26, 1989",
+        "month": 7,
+        "year": 1989
+    },
+    {
+        "title": "Autumn Exhibition",
+        "air_date": "August 2, 1989",
+        "month": 8,
+        "year": 1989
+    },
+    {
+        "title": "Majestic Peaks",
+        "air_date": "August 9, 1989",
+        "month": 8,
+        "year": 1989
+    },
+    {
+        "title": "Golden Morning Mist",
+        "air_date": "August 16, 1989",
+        "month": 8,
+        "year": 1989
+    },
+    {
+        "title": "Winter Lace",
+        "air_date": "August 23, 1989",
+        "month": 8,
+        "year": 1989
+    },
+    {
+        "title": "Seascape Fantasy",
+        "air_date": "August 30, 1989",
+        "month": 8,
+        "year": 1989
+    },
+    {
+        "title": "Double Oval Stream",
+        "air_date": "September 6, 1989",
+        "month": 9,
+        "year": 1989
+    },
+    {
+        "title": "Enchanted Forest",
+        "air_date": "September 13, 1989",
+        "month": 9,
+        "year": 1989
+    },
+    {
+        "title": "Southwest Serenity",
+        "air_date": "September 20, 1989",
+        "month": 9,
+        "year": 1989
+    },
+    {
+        "title": "Rippling Waters",
+        "air_date": "September 27, 1989",
+        "month": 9,
+        "year": 1989
+    },
+    {
+        "title": "Snowfall Magic",
+        "air_date": "January 3, 1990",
+        "month": 1,
+        "year": 1990
+    },
+    {
+        "title": "Quiet Mountain Lake",
+        "air_date": "January 10, 1990",
+        "month": 1,
+        "year": 1990
+    },
+    {
+        "title": "Final Embers of Sunlight",
+        "air_date": "January 17, 1990",
+        "month": 1,
+        "year": 1990
+    },
+    {
+        "title": "Snowy Morn",
+        "air_date": "January 24, 1990",
+        "month": 1,
+        "year": 1990
+    },
+    {
+        "title": "Camper's Haven",
+        "air_date": "January 31, 1990",
+        "month": 1,
+        "year": 1990
+    },
+    {
+        "title": "Waterfall in the Woods",
+        "air_date": "February 7, 1990",
+        "month": 2,
+        "year": 1990
+    },
+    {
+        "title": "Covered Bridge Oval",
+        "air_date": "February 14, 1990",
+        "month": 2,
+        "year": 1990
+    },
+    {
+        "title": "Scenic Seclusion",
+        "air_date": "February 21, 1990",
+        "month": 2,
+        "year": 1990
+    },
+    {
+        "title": "Ebb Tide",
+        "air_date": "February 28, 1990",
+        "month": 2,
+        "year": 1990
+    },
+    {
+        "title": "After the Rain",
+        "air_date": "March 7, 1990",
+        "month": 3,
+        "year": 1990
+    },
+    {
+        "title": "Winter Elegance",
+        "air_date": "March 14, 1990",
+        "month": 3,
+        "year": 1990
+    },
+    {
+        "title": "Evening's Peace",
+        "air_date": "March 21, 1990",
+        "month": 3,
+        "year": 1990
+    },
+    {
+        "title": "Valley of Tranquility",
+        "air_date": "March 28, 1990",
+        "month": 3,
+        "year": 1990
+    },
+    {
+        "title": "Mystic Mountain",
+        "air_date": "April 4, 1990",
+        "month": 4,
+        "year": 1990
+    },
+    {
+        "title": "New Day's Dawn",
+        "air_date": "April 11, 1990",
+        "month": 4,
+        "year": 1990
+    },
+    {
+        "title": "Pastel Winter",
+        "air_date": "April 18, 1990",
+        "month": 4,
+        "year": 1990
+    },
+    {
+        "title": "Hazy Day",
+        "air_date": "April 25, 1990",
+        "month": 4,
+        "year": 1990
+    },
+    {
+        "title": "Divine Elegance",
+        "air_date": "May 2, 1990",
+        "month": 5,
+        "year": 1990
+    },
+    {
+        "title": "Cliffside",
+        "air_date": "May 9, 1990",
+        "month": 5,
+        "year": 1990
+    },
+    {
+        "title": "Autumn Fantasy",
+        "air_date": "May 16, 1990",
+        "month": 5,
+        "year": 1990
+    },
+    {
+        "title": "Old Oak Tree",
+        "air_date": "May 23, 1990",
+        "month": 5,
+        "year": 1990
+    },
+    {
+        "title": "Winter Paradise",
+        "air_date": "May 30, 1990",
+        "month": 5,
+        "year": 1990
+    },
+    {
+        "title": "Days Gone By",
+        "air_date": "June 6, 1990",
+        "month": 6,
+        "year": 1990
+    },
+    {
+        "title": "Change of Seasons",
+        "air_date": "June 13, 1990",
+        "month": 6,
+        "year": 1990
+    },
+    {
+        "title": "Hidden Delight",
+        "air_date": "June 20, 1990",
+        "month": 6,
+        "year": 1990
+    },
+    {
+        "title": "Double Take",
+        "air_date": "June 27, 1990",
+        "month": 6,
+        "year": 1990
+    },
+    {
+        "title": "Valley View",
+        "air_date": "September 5, 1990",
+        "month": 9,
+        "year": 1990
+    },
+    {
+        "title": "Tranquil Dawn",
+        "air_date": "September 12, 1990",
+        "month": 9,
+        "year": 1990
+    },
+    {
+        "title": "Royal Majesty",
+        "air_date": "September 19, 1990",
+        "month": 9,
+        "year": 1990
+    },
+    {
+        "title": "Serenity",
+        "air_date": "September 26, 1990",
+        "month": 9,
+        "year": 1990
+    },
+    {
+        "title": "Cabin at Trial's End",
+        "air_date": "October 3, 1990",
+        "month": 10,
+        "year": 1990
+    },
+    {
+        "title": "Mountain Rhapsody",
+        "air_date": "October 10, 1990",
+        "month": 10,
+        "year": 1990
+    },
+    {
+        "title": "Wilderness Cabin",
+        "air_date": "October 17, 1990",
+        "month": 10,
+        "year": 1990
+    },
+    {
+        "title": "By the Sea",
+        "air_date": "October 24, 1990",
+        "month": 10,
+        "year": 1990
+    },
+    {
+        "title": "Indian Summer",
+        "air_date": "October 31, 1990",
+        "month": 10,
+        "year": 1990
+    },
+    {
+        "title": "Blue Winter",
+        "air_date": "November 7, 1990",
+        "month": 11,
+        "year": 1990
+    },
+    {
+        "title": "Desert Glow",
+        "air_date": "November 14, 1990",
+        "month": 11,
+        "year": 1990
+    },
+    {
+        "title": "Lone Mountain",
+        "air_date": "November 21, 1990",
+        "month": 11,
+        "year": 1990
+    },
+    {
+        "title": "Florida's Glory",
+        "air_date": "November 28, 1990",
+        "month": 11,
+        "year": 1990
+    },
+    {
+        "title": "Autumn Images",
+        "air_date": "January 1, 1991",
+        "month": 1,
+        "year": 1991
+    },
+    {
+        "title": "Hint of Springtime",
+        "air_date": "January 8, 1991",
+        "month": 1,
+        "year": 1991
+    },
+    {
+        "title": "Around the Bend",
+        "air_date": "January 15, 1991",
+        "month": 1,
+        "year": 1991
+    },
+    {
+        "title": "Countryside Oval",
+        "air_date": "January 22, 1991",
+        "month": 1,
+        "year": 1991
+    },
+    {
+        "title": "Russet Winter",
+        "air_date": "January 29, 1991",
+        "month": 1,
+        "year": 1991
+    },
+    {
+        "title": "Purple Haze",
+        "air_date": "February 5, 1991",
+        "month": 2,
+        "year": 1991
+    },
+    {
+        "title": "Dimensions",
+        "air_date": "February 12, 1991",
+        "month": 2,
+        "year": 1991
+    },
+    {
+        "title": "Deep Wilderness Home",
+        "air_date": "February 19, 1991",
+        "month": 2,
+        "year": 1991
+    },
+    {
+        "title": "Haven in the Valley",
+        "air_date": "February 26, 1991",
+        "month": 2,
+        "year": 1991
+    },
+    {
+        "title": "Wintertime Blues",
+        "air_date": "March 5, 1991",
+        "month": 3,
+        "year": 1991
+    },
+    {
+        "title": "Pastel Seascape",
+        "air_date": "March 12, 1991",
+        "month": 3,
+        "year": 1991
+    },
+    {
+        "title": "Country Creek",
+        "air_date": "March 19, 1991",
+        "month": 3,
+        "year": 1991
+    },
+    {
+        "title": "Silent Forest",
+        "air_date": "March 26, 1991",
+        "month": 3,
+        "year": 1991
+    },
+    {
+        "title": "Frosty Winter Morn",
+        "air_date": "September 3, 1991",
+        "month": 9,
+        "year": 1991
+    },
+    {
+        "title": "Forest Edge",
+        "air_date": "September 10, 1991",
+        "month": 9,
+        "year": 1991
+    },
+    {
+        "title": "Mountain Ridge Lake",
+        "air_date": "September 17, 1991",
+        "month": 9,
+        "year": 1991
+    },
+    {
+        "title": "Reflections of Gold",
+        "air_date": "September 24, 1991",
+        "month": 9,
+        "year": 1991
+    },
+    {
+        "title": "Quiet Cove",
+        "air_date": "October 1, 1991",
+        "month": 10,
+        "year": 1991
+    },
+    {
+        "title": "River's Peace",
+        "air_date": "October 8, 1991",
+        "month": 10,
+        "year": 1991
+    },
+    {
+        "title": "At Dawn's Light",
+        "air_date": "October 15, 1991",
+        "month": 10,
+        "year": 1991
+    },
+    {
+        "title": "Valley Waterfall",
+        "air_date": "October 22, 1991",
+        "month": 10,
+        "year": 1991
+    },
+    {
+        "title": "Toward Day's End",
+        "air_date": "October 29, 1991",
+        "month": 10,
+        "year": 1991
+    },
+    {
+        "title": "Falls in the Glen",
+        "air_date": "November 5, 1991",
+        "month": 11,
+        "year": 1991
+    },
+    {
+        "title": "Frozen Beauty in Vignette",
+        "air_date": "November 12, 1991",
+        "month": 11,
+        "year": 1991
+    },
+    {
+        "title": "Crimson Tide",
+        "air_date": "November 19, 1991",
+        "month": 11,
+        "year": 1991
+    },
+    {
+        "title": "Winter Bliss",
+        "air_date": "November 26, 1991",
+        "month": 11,
+        "year": 1991
+    },
+    {
+        "title": "Grey Mountain",
+        "air_date": "January 7, 1992",
+        "month": 1,
+        "year": 1992
+    },
+    {
+        "title": "Wayside Pond",
+        "air_date": "January 14, 1992",
+        "month": 1,
+        "year": 1992
+    },
+    {
+        "title": "Teton Winter",
+        "air_date": "January 21, 1992",
+        "month": 1,
+        "year": 1992
+    },
+    {
+        "title": "Little Home in the Meadow",
+        "air_date": "January 28, 1992",
+        "month": 1,
+        "year": 1992
+    },
+    {
+        "title": "Pretty Autumn Day",
+        "air_date": "February 4, 1992",
+        "month": 2,
+        "year": 1992
+    },
+    {
+        "title": "Mirrored Images",
+        "air_date": "February 11, 1992",
+        "month": 2,
+        "year": 1992
+    },
+    {
+        "title": "Back-Country Path",
+        "air_date": "February 18, 1992",
+        "month": 2,
+        "year": 1992
+    },
+    {
+        "title": "Graceful Waterfall",
+        "air_date": "February 25, 1992",
+        "month": 2,
+        "year": 1992
+    },
+    {
+        "title": "Icy Lake",
+        "air_date": "March 3, 1992",
+        "month": 3,
+        "year": 1992
+    },
+    {
+        "title": "Rowboat on the Beach",
+        "air_date": "March 10, 1992",
+        "month": 3,
+        "year": 1992
+    },
+    {
+        "title": "Portrait of Winter",
+        "air_date": "March 17, 1992",
+        "month": 3,
+        "year": 1992
+    },
+    {
+        "title": "Footbridge",
+        "air_date": "March 24, 1992",
+        "month": 3,
+        "year": 1992
+    },
+    {
+        "title": "Snowbound Cabin",
+        "air_date": "March 31, 1992",
+        "month": 3,
+        "year": 1992
+    },
+    {
+        "title": "Hide-a-Way Cove",
+        "air_date": "August 25, 1992",
+        "month": 8,
+        "year": 1992
+    },
+    {
+        "title": "Enchanted Falls Oval",
+        "air_date": "September 1, 1992",
+        "month": 9,
+        "year": 1992
+    },
+    {
+        "title": "Not Quite Spring",
+        "air_date": "September 8, 1992",
+        "month": 9,
+        "year": 1992
+    },
+    {
+        "title": "Splashes of Autumn",
+        "air_date": "September 15, 1992",
+        "month": 9,
+        "year": 1992
+    },
+    {
+        "title": "Summer in the Mountains",
+        "air_date": "September 22, 1992",
+        "month": 9,
+        "year": 1992
+    },
+    {
+        "title": "Oriental Falls",
+        "air_date": "September 29, 1992",
+        "month": 9,
+        "year": 1992
+    },
+    {
+        "title": "Autumn Palette",
+        "air_date": "October 6, 1992",
+        "month": 10,
+        "year": 1992
+    },
+    {
+        "title": "Cypress Swamp",
+        "air_date": "October 13, 1992",
+        "month": 10,
+        "year": 1992
+    },
+    {
+        "title": "Downstream View",
+        "air_date": "October 20, 1992",
+        "month": 10,
+        "year": 1992
+    },
+    {
+        "title": "Just Before the Storm",
+        "air_date": "October 27, 1992",
+        "month": 10,
+        "year": 1992
+    },
+    {
+        "title": "Fisherman's Paradise",
+        "air_date": "November 3, 1992",
+        "month": 11,
+        "year": 1992
+    },
+    {
+        "title": "Desert Hues",
+        "air_date": "November 10, 1992",
+        "month": 11,
+        "year": 1992
+    },
+    {
+        "title": "The Property Line",
+        "air_date": "November 17, 1992",
+        "month": 11,
+        "year": 1992
+    },
+    {
+        "title": "In the Stillness of Morning",
+        "air_date": "December 1, 1992",
+        "month": 12,
+        "year": 1992
+    },
+    {
+        "title": "Delightful Meadow Home",
+        "air_date": "December 8, 1992",
+        "month": 12,
+        "year": 1992
+    },
+    {
+        "title": "First Snow",
+        "air_date": "December 15, 1992",
+        "month": 12,
+        "year": 1992
+    },
+    {
+        "title": "Lake in the Valley",
+        "air_date": "December 22, 1992",
+        "month": 12,
+        "year": 1992
+    },
+    {
+        "title": "A Trace of Spring",
+        "air_date": "December 29, 1992",
+        "month": 12,
+        "year": 1992
+    },
+    {
+        "title": "An Arctic Winter Day",
+        "air_date": "January 5, 1993",
+        "month": 1,
+        "year": 1993
+    },
+    {
+        "title": "Snow Birch",
+        "air_date": "January 12, 1993",
+        "month": 1,
+        "year": 1993
+    },
+    {
+        "title": "Early Autumn",
+        "air_date": "January 19, 1993",
+        "month": 1,
+        "year": 1993
+    },
+    {
+        "title": "Tranquil Wooded Stream",
+        "air_date": "January 26, 1993",
+        "month": 1,
+        "year": 1993
+    },
+    {
+        "title": "Purple Mountain Range",
+        "air_date": "February 2, 1993",
+        "month": 2,
+        "year": 1993
+    },
+    {
+        "title": "Storm's a Comin'",
+        "air_date": "February 9, 1993",
+        "month": 2,
+        "year": 1993
+    },
+    {
+        "title": "Sunset Aglow",
+        "air_date": "February 16, 1993",
+        "month": 2,
+        "year": 1993
+    },
+    {
+        "title": "Evening at the Falls",
+        "air_date": "February 23, 1993",
+        "month": 2,
+        "year": 1993
+    },
+    {
+        "title": "Twilight Beauty",
+        "air_date": "March 2, 1993",
+        "month": 3,
+        "year": 1993
+    },
+    {
+        "title": "Angler's Haven",
+        "air_date": "March 9, 1993",
+        "month": 3,
+        "year": 1993
+    },
+    {
+        "title": "Rustic Winter Woods",
+        "air_date": "March 16, 1993",
+        "month": 3,
+        "year": 1993
+    },
+    {
+        "title": "Wilderness Falls",
+        "air_date": "March 23, 1993",
+        "month": 3,
+        "year": 1993
+    },
+    {
+        "title": "Winter at the Farm",
+        "air_date": "March 30, 1993",
+        "month": 3,
+        "year": 1993
+    },
+    {
+        "title": "Daisies at Dawn",
+        "air_date": "April 6, 1993",
+        "month": 4,
+        "year": 1993
+    },
+    {
+        "title": "A Spectacular View",
+        "air_date": "April 13, 1993",
+        "month": 4,
+        "year": 1993
+    },
+    {
+        "title": "Daybreak",
+        "air_date": "April 20, 1993",
+        "month": 4,
+        "year": 1993
+    },
+    {
+        "title": "Island Paradise",
+        "air_date": "April 27, 1993",
+        "month": 4,
+        "year": 1993
+    },
+    {
+        "title": "Sunlight in the Shadows",
+        "air_date": "May 4, 1993",
+        "month": 5,
+        "year": 1993
+    },
+    {
+        "title": "Splendor of a Snowy Winter",
+        "air_date": "May 11, 1993",
+        "month": 5,
+        "year": 1993
+    },
+    {
+        "title": "Forest River",
+        "air_date": "May 18, 1993",
+        "month": 5,
+        "year": 1993
+    },
+    {
+        "title": "Golden Glow of Morning",
+        "air_date": "May 20, 1993",
+        "month": 5,
+        "year": 1993
+    },
+    {
+        "title": "Fisherman's Trail",
+        "air_date": "May 25, 1993",
+        "month": 5,
+        "year": 1993
+    },
+    {
+        "title": "A Warm Winter",
+        "air_date": "June 1, 1993",
+        "month": 6,
+        "year": 1993
+    },
+    {
+        "title": "Under Pastel Skies",
+        "air_date": "June 8, 1993",
+        "month": 6,
+        "year": 1993
+    },
+    {
+        "title": "Golden Rays of Sunlight",
+        "air_date": "June 15, 1993",
+        "month": 6,
+        "year": 1993
+    },
+    {
+        "title": "The Magic of Fall",
+        "air_date": "June 22, 1993",
+        "month": 6,
+        "year": 1993
+    },
+    {
+        "title": "Glacier Lake",
+        "air_date": "June 29, 1993",
+        "month": 6,
+        "year": 1993
+    },
+    {
+        "title": "The Old Weathered Barn",
+        "air_date": "July 6, 1993",
+        "month": 7,
+        "year": 1993
+    },
+    {
+        "title": "Deep Forest Falls",
+        "air_date": "July 13, 1993",
+        "month": 7,
+        "year": 1993
+    },
+    {
+        "title": "Winter's Grace",
+        "air_date": "July 20, 1993",
+        "month": 7,
+        "year": 1993
+    },
+    {
+        "title": "Splendor of Autumn",
+        "air_date": "July 27, 1993",
+        "month": 7,
+        "year": 1993
+    },
+    {
+        "title": "Tranquil Seas",
+        "air_date": "August 3, 1993",
+        "month": 8,
+        "year": 1993
+    },
+    {
+        "title": "Mountain Serenity",
+        "air_date": "August 10, 1993",
+        "month": 8,
+        "year": 1993
+    },
+    {
+        "title": "Home Before Nightfall",
+        "air_date": "August 17, 1993",
+        "month": 8,
+        "year": 1993
+    },
+    {
+        "title": "Island in the Wilderness",
+        "air_date": "August 24, 1993",
+        "month": 8,
+        "year": 1993
+    },
+    {
+        "title": "Autumn Oval",
+        "air_date": "August 31, 1993",
+        "month": 8,
+        "year": 1993
+    },
+    {
+        "title": "Seasonal Progression",
+        "air_date": "September 7, 1993",
+        "month": 9,
+        "year": 1993
+    },
+    {
+        "title": "Light at the Summit",
+        "air_date": "September 14, 1993",
+        "month": 9,
+        "year": 1993
+    },
+    {
+        "title": "Countryside Barn",
+        "air_date": "September 21, 1993",
+        "month": 9,
+        "year": 1993
+    },
+    {
+        "title": "Mountain Lake Falls",
+        "air_date": "September 28, 1993",
+        "month": 9,
+        "year": 1993
+    },
+    {
+        "title": "Cypress Creek",
+        "air_date": "October 5, 1993",
+        "month": 10,
+        "year": 1993
+    },
+    {
+        "title": "Trapper's Cabin",
+        "air_date": "October 12, 1993",
+        "month": 10,
+        "year": 1993
+    },
+    {
+        "title": "Storm on the Horizon",
+        "air_date": "October 19, 1993",
+        "month": 10,
+        "year": 1993
+    },
+    {
+        "title": "Pot O' Posies",
+        "air_date": "October 26, 1993",
+        "month": 10,
+        "year": 1993
+    },
+    {
+        "title": "A Perfect Winter Day",
+        "air_date": "November 2, 1993",
+        "month": 11,
+        "year": 1993
+    },
+    {
+        "title": "Aurora's Dance",
+        "air_date": "November 9, 1993",
+        "month": 11,
+        "year": 1993
+    },
+    {
+        "title": "Woodsman's Retreat",
+        "air_date": "November 16, 1993",
+        "month": 11,
+        "year": 1993
+    },
+    {
+        "title": "Babbling Brook",
+        "air_date": "November 23, 1993",
+        "month": 11,
+        "year": 1993
+    },
+    {
+        "title": "Woodgrain View",
+        "air_date": "November 30, 1993",
+        "month": 11,
+        "year": 1993
+    },
+    {
+        "title": "Winter's Peace",
+        "air_date": "December 7, 1993",
+        "month": 12,
+        "year": 1993
+    },
+    {
+        "title": "Wilderness Trail",
+        "air_date": "December 14, 1993",
+        "month": 12,
+        "year": 1993
+    },
+    {
+        "title": "A Copper Winter",
+        "air_date": "December 21, 1993",
+        "month": 12,
+        "year": 1993
+    },
+    {
+        "title": "Misty Foothills",
+        "air_date": "December 28, 1993",
+        "month": 12,
+        "year": 1993
+    },
+    {
+        "title": "Through the Window",
+        "air_date": "January 4, 1994",
+        "month": 1,
+        "year": 1994
+    },
+    {
+        "title": "Home in the Valley",
+        "air_date": "January 11, 1994",
+        "month": 1,
+        "year": 1994
+    },
+    {
+        "title": "Mountains of Grace",
+        "air_date": "January 18, 1994",
+        "month": 1,
+        "year": 1994
+    },
+    {
+        "title": "Seaside Harmony",
+        "air_date": "January 25, 1994",
+        "month": 1,
+        "year": 1994
+    },
+    {
+        "title": "A Cold Spring Day",
+        "air_date": "February 1, 1994",
+        "month": 2,
+        "year": 1994
+    },
+    {
+        "title": "Evening's Glow",
+        "air_date": "February 8, 1994",
+        "month": 2,
+        "year": 1994
+    },
+    {
+        "title": "Blue Ridge Falls",
+        "air_date": "February 15, 1994",
+        "month": 2,
+        "year": 1994
+    },
+    {
+        "title": "Reflections of Calm",
+        "air_date": "February 22, 1994",
+        "month": 2,
+        "year": 1994
+    },
+    {
+        "title": "Before the Snowfall",
+        "air_date": "March 1, 1994",
+        "month": 3,
+        "year": 1994
+    },
+    {
+        "title": "Winding Stream",
+        "air_date": "March 8, 1994",
+        "month": 3,
+        "year": 1994
+    },
+    {
+        "title": "Tranquility Cove",
+        "air_date": "March 15, 1994",
+        "month": 3,
+        "year": 1994
+    },
+    {
+        "title": "Cabin in the Hollow",
+        "air_date": "March 22, 1994",
+        "month": 3,
+        "year": 1994
+    },
+    {
+        "title": "View From Clear Creek",
+        "air_date": "March 29, 1994",
+        "month": 3,
+        "year": 1994
+    },
+    {
+        "title": "Bridge to Autumn",
+        "air_date": "April 5, 1994",
+        "month": 4,
+        "year": 1994
+    },
+    {
+        "title": "Trail's End",
+        "air_date": "April 12, 1994",
+        "month": 4,
+        "year": 1994
+    },
+    {
+        "title": "Evergreen Valley",
+        "air_date": "April 19, 1994",
+        "month": 4,
+        "year": 1994
+    },
+    {
+        "title": "Balmy Beach",
+        "air_date": "April 26, 1994",
+        "month": 4,
+        "year": 1994
+    },
+    {
+        "title": "Lake at the Ridge",
+        "air_date": "May 3, 1994",
+        "month": 5,
+        "year": 1994
+    },
+    {
+        "title": "In the Midst of Winter",
+        "air_date": "May 10, 1994",
+        "month": 5,
+        "year": 1994
+    },
+    {
+        "title": "Wilderness Day",
+        "air_date": "May 17, 1994",
+        "month": 5,
+        "year": 1994
+    }
+]
