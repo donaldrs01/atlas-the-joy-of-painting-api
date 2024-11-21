@@ -13,7 +13,7 @@ DB_SETTINGS = {
     "port": os.getenv("DB_PORT"),
 }
 
-def populate_colors(csv_file):
+def populate_episode_colors(csv_file):
     try:
         # Load the CSV file
         df = pd.read_csv(csv_file)
@@ -22,22 +22,24 @@ def populate_colors(csv_file):
         conn = psycopg2.connect(**DB_SETTINGS)
         cur = conn.cursor()
 
-        # Insert unique colors into the `colors` table
-        unique_colors = df[['color', 'hex_value']].drop_duplicates()
-        for _, row in unique_colors.iterrows():
+        # Insert data into `episode_colors` table
+        for _, row in df.iterrows():
             sql = """
-            INSERT INTO colors (color_name, hex_value)
-            VALUES (%s, %s)
-            ON CONFLICT (color_name) DO NOTHING;
+            INSERT INTO episode_colors (episode_id, color_id)
+            VALUES (
+                (SELECT id FROM episodes WHERE episode_code = %s),
+                (SELECT id FROM colors WHERE color_name = %s)
+            )
+            ON CONFLICT (episode_id, color_id) DO NOTHING;
             """
-            cur.execute(sql, (row['color'], row['hex_value']))
+            cur.execute(sql, (row['full_epi_code'], row['color']))
 
         conn.commit()
-        print("Colors table populated successfully!")
+        print("Episode_colors table populated successfully!")
     except Exception as e:
         print(f"Error: {e}")
     finally:
         cur.close()
         conn.close()
 
-populate_colors('../../parsed_data/colors.csv')
+populate_episode_colors('../../parsed_data/colors.csv')
