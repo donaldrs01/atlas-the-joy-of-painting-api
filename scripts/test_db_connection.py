@@ -12,7 +12,6 @@ DB_SETTINGS = {
     "host": os.getenv("DB_HOST"),
     "port": os.getenv("DB_PORT")
 }
-print(DB_SETTINGS)
 
 # Test DB connection
 try:
