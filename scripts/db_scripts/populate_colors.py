@@ -15,14 +15,11 @@ DB_SETTINGS = {
 
 def populate_colors(csv_file):
     try:
-        # Load the CSV file
         df = pd.read_csv(csv_file)
 
-        # Connect to the database
         conn = psycopg2.connect(**DB_SETTINGS)
         cur = conn.cursor()
 
-        # Insert unique colors into the `colors` table
         unique_colors = df[['color', 'hex_value']].drop_duplicates()
         for _, row in unique_colors.iterrows():
             sql = """

@@ -15,15 +15,13 @@ DB_SETTINGS = {
 
 def populate_episodes(csv_file):
     try:
-        # Connect to the database
         conn = psycopg2.connect(**DB_SETTINGS)
         cur = conn.cursor()
 
-        # Open and read the CSV file
         with open(csv_file, 'r') as file:
             reader = csv.DictReader(file)
+
             for row in reader:
-                # Insert data into the episodes table
                 sql = """
                 INSERT INTO episodes (id, title, air_date, month, year, episode_code)
                 VALUES (%s, %s, %s, %s, %s, %s)
@@ -38,7 +36,6 @@ def populate_episodes(csv_file):
                     row['full_epi_code']
                 ))
 
-        # Commit the transaction
         conn.commit()
         print("Episodes table populated successfully!")
     except Exception as e:
@@ -47,5 +44,4 @@ def populate_episodes(csv_file):
         cur.close()
         conn.close()
 
-# Call the function with the path to your episodes.csv file
 populate_episodes('../../parsed_data/episodes.csv')

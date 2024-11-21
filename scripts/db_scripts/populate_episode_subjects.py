@@ -3,10 +3,8 @@ import psycopg2
 from dotenv import load_dotenv
 import os
 
-# Load environment variables
 load_dotenv()
 
-# Database connection settings
 DB_SETTINGS = {
     "dbname": os.getenv("DB_NAME"),
     "user": os.getenv("DB_USER"),
@@ -17,14 +15,11 @@ DB_SETTINGS = {
 
 def populate_episode_subjects(csv_file):
     try:
-        # Load the CSV file
         df = pd.read_csv(csv_file)
 
-        # Connect to the database
         conn = psycopg2.connect(**DB_SETTINGS)
         cur = conn.cursor()
-
-        # Insert data into `episode_subjects` table
+        
         for _, row in df.iterrows():
             # Matching episode ID  (!,2,3) with episode_code (S01E01, S01E02, etc)
             # Matching subject ID (1,2,3) with subject name 

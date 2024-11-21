@@ -15,14 +15,11 @@ DB_SETTINGS = {
 
 def populate_episode_colors(csv_file):
     try:
-        # Load the CSV file
         df = pd.read_csv(csv_file)
 
-        # Connect to the database
         conn = psycopg2.connect(**DB_SETTINGS)
-        cur = conn.cursor()
+        cur = nconn.cursor()
 
-        # Insert data into `episode_colors` table
         for _, row in df.iterrows():
             sql = """
             INSERT INTO episode_colors (episode_id, color_id)
