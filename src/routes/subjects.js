@@ -29,15 +29,18 @@ router.get('/:id/episodes', async (req, res) => {
 
     try {
         const query = `
-        SELECT episodes.id, episodes.title, episodes.air_date
+        SELECT DISTINCT episodes.id, episodes.episode_code, episodes.title, episodes.air_date, episodes.month, episodes.year
         FROM episodes
-        INNER JOIN episode_subjects ON episode_id = episode_subjects.episode_id
+        INNER JOIN episode_subjects ON episodes.id = episode_subjects.episode_id
         WHERE episode_subjects.subject_id = $1
+        ORDER BY episodes.id ASC;
     `;
     // value in array replaces $1 at runtime (subject.id)
     const values = [id];
+
     // Execute query
     const result = await pool.query(query, values);
+
     // No matching episode in DB storage
     if (result.rows.length === 0) {
         return res.status(404).json({ error: "No matching episodes for given subject" });

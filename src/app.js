@@ -13,7 +13,10 @@ app.get('/', (req, res) => {
 });
 
 // Route mounting
+
+// Query episode by month (1-12)
 app.use('/episodes', episodesRoutes);
+
 app.use('/subjects', subjectsRoutes);
 
 app.use((req, res) => {
