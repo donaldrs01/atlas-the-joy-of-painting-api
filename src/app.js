@@ -15,11 +15,17 @@ app.get('/', (req, res) => {
 
 // Route mounting
 
-// Query episode by month (1-12)
+// Primary endpoint for episode filtering
+// /episodes lists all episodes
+// /episodes?month={} filters by month
+// /episode?color={} filters by color
+// /episode?subject={} filters by subject
 app.use('/episodes', episodesRoutes);
 
+// Lists all subjects and corresponding IDs
 app.use('/subjects', subjectsRoutes);
 
+// Lists all colors (in alphabetical order) and corresponding IDs
 app.use('/colors', colorsRoutes);
 
 app.use((req, res) => {

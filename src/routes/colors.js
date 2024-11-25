@@ -11,52 +11,54 @@ const pool = new Pool ({
     database: process.env.DB_NAME,
 });
 
+// If no color provided, list all colors
+// Otherwise, list all episodes with given color
 router.get('/', async (req, res) => {
-    try {
-        const query = `
-            SELECT id AS color_id, color_name, hex_value
-            FROM colors
-            ORDER BY color_name ASC;
-        `;
+    const { color } = req.query;
 
-        const result = await pool.query(query);
+    // If no name provided, return all colors
+    if (!color) {
+        try {
+            const query = `
+                SELECT id AS color_id, color_name, hex_value
+                FROM colors
+                ORDER BY color_name ASC;
+            `;
+            const result = await pool.query(query);
 
-        if (result.rows.length === 0) {
-            return res.status(404).json({ error: "No colors found" });
+            if (result.rows.length === 0) {
+                return res.status(404).json({ error: "No colors found" });
+            }
+            res.status(200).json(result.rows);
+        } catch (err) {
+            res.status(500).json({ error: "Unable to fetch colors" });
         }
+    } else {
+        // If color provided, filter episodes based on color name
+        try {
+            const query = `
+                SELECT DISTINCT episodes.id, episodes.episode_code, episodes.title, episodes.air_date, episodes.month, episodes.year
+                FROM episodes
+                INNER JOIN episode_colors ON episodes.id = episode_colors.episode_id
+                INNER JOIN colors ON colors.id = episode_colors.color_id
+                WHERE LOWER(colors.color_name) = LOWER($1)
+                ORDER BY episodes.id ASC;
+            `;
+            const values = [color];
+            const result = await pool.query(query, values);
 
-        res.status(200).json(result.rows);
-    } catch (err) {
-        res.status(500).json({ error: "Unable to fetch colors" });
+            if (result.rows.length === 0) {
+                return res.status(404).json({ error: `No episodes found using "${color}"` });
+            }
+
+            res.status(200).json(result.rows);
+        } catch (err) {
+            res.status(500).json({ error: "Unable to fetch episodes for given color" });
+        }
     }
 });
+  
 
-router.get('/:id/episodes', async (req, res) => {
-    const id = req.params.id;
-
-    if (isNaN(id)) {
-        return res.status(400).json({ error: 'Invalid colorID. Must be a number.' });
-    }
-
-    try {
-        const query = `
-            SELECT DISTINCT episodes.id, episodes.episode_code, episodes.title, episodes.air_date, episodes.month, episodes.year
-            FROM episodes
-            INNER JOIN episode_colors ON episodes.id = episode_colors.episode_id
-            WHERE episode_colors.color_id = $1
-            ORDER BY episodes.id ASC;
-        `;
-        const values = [id];
-        const result = await pool.query(query, values);
-
-        if (result.rows.length === 0) {
-            return res.status(404).json({ error: `No episodes found using color id ${id}`});
-        }
-
-        res.status(200).json(result.rows);
-    } catch (err) {
-        res.status(500).json({ error: "Unable to fetch episodes for given color" });
-    }
-});
+        
 
 module.exports = router;
