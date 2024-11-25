@@ -1,5 +1,6 @@
 # ETL: Bob Ross and the Joy of Coding  
 This API allows users to explore the extensive work of Bob Ross' *The Joy of Painting* by filtering episodes by their preferred color palette, subject, and month of the year.  
+
 It is a RESTful API built with Node.js, Express.js, and PostgreSQL. It utilizes a PostgreSQL database for data storage, with provided scripts for setup and population.  
 
 ## Setup Instructions  
