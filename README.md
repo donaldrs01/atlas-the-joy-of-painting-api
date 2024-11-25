@@ -1,3 +1,4 @@
+![README Banner](/images/bob_banner.jfif)
 # ETL: Bob Ross and the Joy of Coding  
 This API allows users to explore the extensive work of Bob Ross' *The Joy of Painting* by filtering episodes by their preferred color palette, subject, and month of the year.  
 
