@@ -88,9 +88,9 @@ All requests to the API should begin with this.
 #### 4. Filter Episodes by Month
 * Endpoint: */episodes*
 * Method: GET
-* Description: Returns all episodes that aired during month entered as parameter
 * Query Parameter: month
 * Example: ```GET /episodes?month=April```
+* Description: Returns all episodes that aired during month entered as parameter
 * Expected Result:
 ```
 {
@@ -113,9 +113,9 @@ All requests to the API should begin with this.
 #### 5. Filter Episodes by Subject
 * Endpoint: */episodes*
 * Method: GET
-* Description: Returns all episodes containing subject entered as parameter
 * Query Parameter: subject
 * Example: ```GET /episodes?subject=Bridge```
+* Description: Returns all episodes containing subject entered as parameter
 * Expected Result:
 ```
 {
@@ -138,9 +138,9 @@ All requests to the API should begin with this.
 #### 6. Filter Episodes by Color
 * Endpoint: */episodes*
 * Method: GET
-* Description: Returns all episodes using color entered as parameter
 * Query Parameter: color
 * Example: ```GET /episodes?color=Dark Sienna```
+* Description: Returns all episodes using color entered as parameter
 * Expected Result:
 ```
 {
