@@ -13,7 +13,7 @@ DB_USER=your_username
 DB_PASSWORD=your_password
 DB_NAME=bob_ross
 ```
-To set up the database, run the following SQL script. Make sure to replace <your-username> and <your-database-name> with the correct values.
+To set up the database, run the following SQL script. Make sure to replace *your-username* and *your-database-name* with the correct values.
 ```
 psql -U <your-username> -d <your-database-name> -f scripts/db_scripts/init.sql
 ```
