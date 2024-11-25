@@ -11,12 +11,15 @@ const pool = new Pool ({
     database: process.env.DB_NAME,
 });
 
+// List all episodes and episode metadata
+
 router.get('/', async (req, res) => {
     const { month } = req.query;
-    // Validate month
-    if (!month || isNaN(month) || month < 1 || month > 12) {
-        return res.status(400).json({ error: 'Invalid month entry. Provide value between 1-12.' });
-    }
+    // If month part of query, validate
+    if (month) {
+        if (isNaN(month) || month < 1 || month > 12) {
+            return res.status(400).json({ error: 'Invalid month entry. Value should be between 1-12.' });
+        }
 
     try {
         // DB query for episodes of specfiic month
@@ -26,11 +29,28 @@ router.get('/', async (req, res) => {
         const values = [month];
         // Execute query
         const result = await pool.query(query, values);
+
+        if (result.rows.length === 0) {
+            return res.status(404).json({ error: "No episodes found with given month." });
+        }
         // Provide result
         res.status(200).json(result.rows);
     } catch (err) {
         console.error(err);
         res.status(500).json({ error: 'Failed to fetch episodes by month' });
+    }
+} else {
+    // If no month param, list all episodes
+    try {
+        const query =  `
+            SELECT id, episode_code, title, air_date, month, year
+            FROM episodes
+            ORDER BY id ASC
+        `;
+        const result = await pool.query(query);
+        res.status(200).json(result.rows);
+    } catch (err) {
+        res.status(500).json({ error: "Error fetching episodes" });    }
     }
 });
 
